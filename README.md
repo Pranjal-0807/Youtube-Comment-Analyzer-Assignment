@@ -32,9 +32,8 @@ A full-stack **MERN** application that fetches YouTube comments, analyzes sentim
 
 ## 📦 Installation
 
-### **1️⃣ Clone the Repository**
-
 ```sh
+# Clone the Repository**
 git clone https://github.com/Pranjal-0807/Youtube-Comment-Analyzer-Assignment.git
 cd Youtube-Comment-Analyzer-Assignment
 
