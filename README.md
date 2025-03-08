@@ -46,7 +46,7 @@ MONGO_URI=your_mongodb_connection_string
 YOUTUBE_API_KEY=your_youtube_api_key
 GEMINI_API_KEY=your_gemini_api_key
 # Start the backend server
-nodemon server.js
+nodemon server.js or npm run start
 ```
 
 ```sh
